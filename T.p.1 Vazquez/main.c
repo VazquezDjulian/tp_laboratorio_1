@@ -107,6 +107,8 @@ int main()
                     else
                     {
                         printf("No esta definido el factorial para numeros flotantes \n");
+                        system("pause");
+                        system("cls");
                     }
                 }
                 else
@@ -139,17 +141,19 @@ int main()
 
                   if(x>=0)
                     {
-                    if(ValidarEntero(x) > 0)
-                    {
-                        rfactorial = Factorial(x);
-                        printf("El factorial del primer numero es: %.0f\n",rfactorial);
-                        system("pause");
-                        system("cls");
-                    }
-                    else
-                    {
-                        printf("No esta definido el factorial para numeros flotantes \n");
-                    }
+                        if(ValidarEntero(x) > 0)
+                        {
+                            rfactorial = Factorial(x);
+                            printf("El factorial del primer numero es: %.0f\n",rfactorial);
+                            system("pause");
+                            system("cls");
+                        }
+                        else
+                        {
+                            printf("No esta definido el factorial para numeros flotantes \n");
+                             system("pause");
+                            system("cls");
+                        }
                     }
                     else
                     {
@@ -176,8 +180,6 @@ int main()
                 system("cls");
             break;
         }
-
-
-   // return 0;
     }
+    return 0;
 }
