@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1526196440 source:c:\users\julian\desktop\tp_2_vazquez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1526196440 c:\users\julian\desktop\tp_2_vazquez\funciones.h
+
+1526196597 source:c:\users\julian\desktop\tp_2_vazquez\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1526196597 source:c:\users\julian\desktop\2do cuatrimestre (prog i)\tp's\tp_2_vazquez\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1526196440 c:\users\julian\desktop\2do cuatrimestre (prog i)\tp's\tp_2_vazquez\funciones.h
+
+1527895785 source:c:\users\julian\desktop\2do cuatrimestre (prog i)\tp's\tp_2_vazquez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
